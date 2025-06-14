@@ -66,7 +66,7 @@ You can deploy this bot for free on the following platforms:
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Bunnymdxy/OFFICIAl-BUNNY-MD)
-<a><img src='https://files.catbox.moe/5hd2zv.jpg'/></a>
+</a>
 
 ### <h4 align="">3. KOYEB</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -80,21 +80,21 @@ You can deploy this bot for free on the following platforms:
   
 <p align="">
 <a href='https://talkdrove.com/share-bot/11' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
-  <a><img src='https://files.catbox.moe/5hd2zv.jpg'/></a>
+  <a>
 
 ### <h4 align="">4. RAILWAY</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
-<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
-<a><img src='https://files.catbox.moe/5hd2zv.jpg'/></a>
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>/</a>
+
 
 ### <h4 align="">5. RENDER</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
-<a><img src='https://files.catbox.moe/5hd2zv.jpg'/></a>
+<a>
 
 ### <h4 align="">6. HUGGING FACE</h4>
 <p style="text-align: center; font-size: 1.2em;">
