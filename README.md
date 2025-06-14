@@ -3,6 +3,7 @@
 
 
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=QUEEN-BUNNY" alt="Typing SVG" /></a>
   </p>
 <a><img src='https://files.catbox.moe/5hd2zv.jpg'/></a>
@@ -121,7 +122,7 @@ You can deploy this bot for free on the following platforms:
 
 <p align="">
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img src='https://files.catbox.moe/5hd2zv.jpg'/></a>
+<a>
 
 
 ## 👑 PROJECT OWNER 
